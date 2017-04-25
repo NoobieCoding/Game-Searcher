@@ -41,3 +41,44 @@ body {
   text-align: center;
   margin-left: 45px;
 }
+
+.panel {
+  background-color: rgb(252, 235, 207);
+  height: 1200px;
+  overflow: scroll;
+}
+
+#panel2 {
+  height: 700px;
+  vertical-align:text-top;
+}
+
+.d2 {
+  vertical-align:top;
+}
+.box {
+  margin-left: 20px;
+  width: 500px;
+  border-color: orange;
+  border-width: medium;
+  border-style: solid;
+  text-align: left;
+}
+
+.label {
+    position: absolute;
+  	font-size: 30px;
+    float: left;
+    margin-left: 30px;
+}
+
+.input {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.input2 {
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
